@@ -23,7 +23,7 @@ ul {
 
 .button_1 {
     height: 38px;
-    background: #e8491d;
+    background: #009900;
     border: 0;
     padding-left: 20px;
     padding-right: 20px;
@@ -44,7 +44,7 @@ header {
     color:#ffffff;
     padding-top: 30px;
     min-height: 70px; 
-    border-bottom: #e8491d 3px solid;
+    border-bottom: #009900 3px solid;
 }
 
 header a{
@@ -74,7 +74,7 @@ header nav {
 }
 
 header .highlight, header .current a {
-    color: #e8491d;
+    color: #009900;
     font-weight: bold;
 }
 
@@ -144,7 +144,7 @@ footer {
     padding: 20px;
     margin-top: 20px;
     color: #ffffff;
-    background: #e8491d;
+    background: #009900;
     text-align: center;
 }
 
